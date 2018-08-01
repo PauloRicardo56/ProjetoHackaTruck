@@ -401,6 +401,12 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
   background: linear-gradient(#fdcc52, #fdc539);
 }
 
+.bg-primary2{
+	background: #fff;
+  	background: -webkit-linear-gradient(#fff, #fff);
+ 	background: linear-gradient(#fff, #fff);
+}
+
 .text-primary {
   color: #fdcc52;
 }
